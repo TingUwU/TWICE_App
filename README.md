@@ -18,9 +18,9 @@
 > | 首頁 (Home) | 新聞區 (News) | 影音推薦 (Videos) |
 > | :---: | :---: | :---: |
 > | <img width="300" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 23 56 33" src="https://github.com/user-attachments/assets/611ddcd9-17c1-468e-9c0a-eadf60c056b9" />
-]" width="200"/> | <img width="300" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 22 13 29" src="https://github.com/user-attachments/assets/161ca831-7b16-4891-bc83-8ab26d620c83" />
-]" width="200"/> | <img width="300" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 23 57 24" src="https://github.com/user-attachments/assets/8682e451-a8fb-4f2a-9025-17de75c5342f" />
-]" width="200"/> |
+| <img width="300" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 22 13 29" src="https://github.com/user-attachments/assets/161ca831-7b16-4891-bc83-8ab26d620c83" />
+| <img width="300" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 23 57 24" src="https://github.com/user-attachments/assets/8682e451-a8fb-4f2a-9025-17de75c5342f" />
+|
 ## 🛠️ 技術挑戰與效能優化 (Troubleshooting)
 
 在開發過程中，為確保 App 於實機上的穩定性，進行了以下深度優化：
