@@ -19,7 +19,10 @@
 > 💡 **提示：** 建議在此處放入 3~4 張 App 實際運行的截圖。
 > | 首頁 (Home) | 新聞區 (News) | 影音推薦 (Videos) |
 > | :---: | :---: | :---: |
-> | <img src="[你的首頁截圖網址]" width="200"/> | <img src="[你的新聞頁截圖網址]" width="200"/> | <img src="[你的影片頁截圖網址]" width="200"/> |
+> | <img src="[<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 23 56 33" src="https://github.com/user-attachments/assets/611ddcd9-17c1-468e-9c0a-eadf60c056b9" />
+]" width="200"/> | <img src="[<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 22 13 29" src="https://github.com/user-attachments/assets/161ca831-7b16-4891-bc83-8ab26d620c83" />
+]" width="200"/> | <img src="[<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 23 57 24" src="https://github.com/user-attachments/assets/8682e451-a8fb-4f2a-9025-17de75c5342f" />
+]" width="200"/> |
 
 ## 🛠️ 技術挑戰與效能優化 (Troubleshooting)
 
