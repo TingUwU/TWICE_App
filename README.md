@@ -17,7 +17,7 @@
 ## 🎨 畫面展示 (Screenshots)
 | 首頁 (Home) | 新聞區 (News) | 影音推薦 (Videos) |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/611ddcd9-17c1-468e-9c0a-eadf60c056b9" width="200"> | <img src="https://github.com/user-attachments/assets/161ca831-7b16-4891-bc83-8ab26d620c83" width="200"> | <img src="https://github.com/user-attachments/assets/8682e451-a8fb-4f2a-9025-17de75c5342f" width="200"> |
+| <img src="https://github.com/user-attachments/assets/611ddcd9-17c1-468e-9c0a-eadf60c056b9" width="250"> | <img src="https://github.com/user-attachments/assets/dd62b3ad-f5e1-42cc-a0a3-790f6c4d4a5e" width="250"> | <img src="https://github.com/user-attachments/assets/8682e451-a8fb-4f2a-9025-17de75c5342f" width="250"> |
 ## 🛠️ 技術挑戰與效能優化 (Troubleshooting)
 
 在開發過程中，為確保 App 於實機上的穩定性，進行了以下深度優化：
