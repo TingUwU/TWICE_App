@@ -15,8 +15,6 @@
 * **全局導航 (Global Navigation)**：封裝共用元件 `SharedDrawer`，實現多頁面間的高效路由切換。
 
 ## 🎨 畫面展示 (Screenshots)
-
-> 💡 **提示：** 建議在此處放入 3~4 張 App 實際運行的截圖。
 > | 首頁 (Home) | 新聞區 (News) | 影音推薦 (Videos) |
 > | :---: | :---: | :---: |
 > | <img width="300" height="717" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-31 at 23 56 33" src="https://github.com/user-attachments/assets/611ddcd9-17c1-468e-9c0a-eadf60c056b9" />
